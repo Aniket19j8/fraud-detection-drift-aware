@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data folders (optional: if you don’t want to push raw data)
+data/raw/
+data/processed/
+
+# VS Code / IDE configs
+.vscode/
+.idea/
