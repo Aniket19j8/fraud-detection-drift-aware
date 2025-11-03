@@ -17,3 +17,5 @@ ipykernel==6.29.5
 kaggle==1.7.4.5
 tqdm==4.67.1
 requests==2.32.3
+
+xgboost==2.1.1
